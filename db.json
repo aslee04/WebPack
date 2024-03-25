@@ -1,10 +1,16 @@
 {
   "users": [
     {
-      "id": 1,
-      "username": "Khaetbek",
-      "email": "khaetbek@internet.ru",
-      "body": "Hello world!"
+      "username": "Towqul",
+      "body": "Hello",
+      "email": "Towqul12212@gmail.com",
+      "id": 3
+    },
+    {
+      "username": "Towmat",
+      "body": "1234432@GSDDFVDV",
+      "email": "Towmat4324@gmail.com",
+      "id": 4
     }
   ]
 }
